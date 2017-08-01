@@ -121,6 +121,10 @@ div.content{
     font-size:20px;
     
 }
+sub{
+    font-family:Monospace;
+    font-size:24px;
+}
 .images{
     margin:20px auto;
 }
@@ -157,6 +161,9 @@ h1#content-heading{
         margin-left:5px;
         width:40%;
     }
+    sub{
+    font-size:12px;
+}
 }
 
 /* FOOTER */
